@@ -12,7 +12,7 @@ import android.view.View;
  * Created by jbt on 11/08/2016.
  */
 public class MyCanvasView extends View {
-
+    int i;
     Path p;
     Paint paint;
 
